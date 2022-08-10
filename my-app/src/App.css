@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@400;700&family=Square+Peg&display=swap');
+
+
+section {
+  box-sizing: border-box;
+  margin: 4px;
+  color: #161616;
+  text-shadow: 1px 1px rgba(235, 235, 240, 0.5);
+  height: 80vh;
+  text-align: center;
+  background-size: cover;
+  min-height: 100vh;
+  background: url(../public/herra.jpg) no-repeat center;
+}
+.navBg {
+  height: 150px;
+  font-size: 30px;
+  background: url(../public/herra.jpg) no-repeat center;
+  margin: 4px;
+  border-radius: 10px;
+  font-weight: bold;  
+  
+  
+}
+
+.fa-screwdriver-wrench {
+  color: #171616;
+  padding: 10px;
+  font-size: 60px;
+  
+}
+.fa-cat {
+  color: #0f0f0f;
+  padding: 20px;
+  font-size: 50px;
+  
+}
+
+.table {
+  background: linear-gradient(90deg, rgb(138, 193, 212) 40%, rgb(79, 157, 193) 60%);
+    border-color: rgb(49, 31, 132);
+
+}
+
+
+
+body{
+  
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+main{
+  background: #e77307;
+  margin: auto;
+  overflow: hidden;
+
+}
+
+
+
+
+
+	
+
+
